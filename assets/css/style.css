@@ -9,7 +9,7 @@
 # General
 --------------------------------------------------------------*/
 body {
-  font-family: 'Lato', 'Open Sans', sans-serif;
+  font-family: 'Source Sans Pro', 'Open Sans', sans-serif;
   color: #444444;
 }
 
@@ -29,7 +29,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Source Sans Pro', sans-serif;
 }
 
 /*--------------------------------------------------------------
@@ -164,7 +164,7 @@ h6 {
   align-items: center;
   justify-content: space-between;
   padding: 10px 0 10px 30px;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Source Sans Pro', sans-serif;
   font-size: 15px;
   font-weight: 600;
   color: #111111;
@@ -388,7 +388,7 @@ h6 {
 }
 
 #hero .btn-get-started {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Source Sans Pro', sans-serif;
   font-weight: 500;
   font-size: 16px;
   letter-spacing: 1px;
@@ -680,7 +680,7 @@ section {
 .counts .count-box p {
   padding: 0;
   margin: 0;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Source Sans Pro', sans-serif;
   font-size: 14px;
 }
 
@@ -1161,7 +1161,7 @@ section {
   transition: none;
   font-size: 14px;
   font-weight: 400;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Source Sans Pro', sans-serif;
   font-weight: 600;
   transition: 0.3s;
   border: 2px solid rgba(255, 255, 255, 0.3);
@@ -1989,7 +1989,7 @@ section {
   font-size: 14px;
   line-height: 24px;
   margin-bottom: 0;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Source Sans Pro', sans-serif;
 }
 
 #footer .footer-top h4 {
